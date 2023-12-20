@@ -123,3 +123,34 @@
 1588503344 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\ing1\informatique\projet_allegrofinal\main.c
 	"fichier.h"
 
+1588496119 source:d:\tibo ece\ing1\informatique\projet_allegrofinal\affichage.c
+	"fichier.h"
+
+1588496119 d:\tibo ece\ing1\informatique\projet_allegrofinal\fichier.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<math.h>
+
+1588496119 source:d:\tibo ece\ing1\informatique\projet_allegrofinal\ajouteracteur.c
+	"fichier.h"
+
+1588496119 source:d:\tibo ece\ing1\informatique\projet_allegrofinal\creationacteur.c
+	"fichier.h"
+
+1588503344 source:d:\tibo ece\ing1\informatique\projet_allegrofinal\main.c
+	"fichier.h"
+
+1588496120 source:d:\tibo ece\ing1\informatique\projet_allegrofinal\menu.c
+	"fichier.h"
+
+1588496120 source:d:\tibo ece\ing1\informatique\projet_allegrofinal\ouvertureimage.c
+	"fichier.h"
+
+1588496120 source:d:\tibo ece\ing1\informatique\projet_allegrofinal\point&click.c
+	"fichier.h"
+
+1588496120 source:d:\tibo ece\ing1\informatique\projet_allegrofinal\trajectoire.c
+	"fichier.h"
+
