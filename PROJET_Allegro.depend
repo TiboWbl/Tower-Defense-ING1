@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1588438803 source:d:\tibo ece\tibo informatique\projet_allegro\affichage.c
+	"fichier.h"
+
+1588441851 d:\tibo ece\tibo informatique\projet_allegro\fichier.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<math.h>
+
+1588379459 source:d:\tibo ece\tibo informatique\projet_allegro\ajouteracteur.c
+	"fichier.h"
+
+1588383024 source:d:\tibo ece\tibo informatique\projet_allegro\creationacteur.c
+	"fichier.h"
+
+1588470730 source:d:\tibo ece\tibo informatique\projet_allegro\main.c
+	"fichier.h"
+
+1588422954 source:d:\tibo ece\tibo informatique\projet_allegro\menu.c
+	"fichier.h"
+
+1588379459 source:d:\tibo ece\tibo informatique\projet_allegro\ouvertureimage.c
+	"fichier.h"
+
+1588439238 source:d:\tibo ece\tibo informatique\projet_allegro\point&click.c
+	"fichier.h"
+
+1588470259 source:d:\tibo ece\tibo informatique\projet_allegro\trajectoire.c
+	"fichier.h"
+
+1588503319 source:c:\users\thiba\downloads\projet_allegro\projet_allegro\affichage.c
+	"fichier.h"
+
+1588503319 c:\users\thiba\downloads\projet_allegro\projet_allegro\fichier.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<math.h>
+
+1588503319 source:c:\users\thiba\downloads\projet_allegro\projet_allegro\ajouteracteur.c
+	"fichier.h"
+
+1588503319 source:c:\users\thiba\downloads\projet_allegro\projet_allegro\creationacteur.c
+	"fichier.h"
+
+1588503809 source:c:\users\thiba\downloads\projet_allegro\projet_allegro\main.c
+	"fichier.h"
+
+1588503320 source:c:\users\thiba\downloads\projet_allegro\projet_allegro\menu.c
+	"fichier.h"
+
+1588503320 source:c:\users\thiba\downloads\projet_allegro\projet_allegro\ouvertureimage.c
+	"fichier.h"
+
+1588503320 source:c:\users\thiba\downloads\projet_allegro\projet_allegro\point&click.c
+	"fichier.h"
+
+1588503320 source:c:\users\thiba\downloads\projet_allegro\projet_allegro\trajectoire.c
+	"fichier.h"
+
+1588503319 source:d:\tibo ece\tibo informatique\projet_allegrofinal\affichage.c
+	"fichier.h"
+
+1588503319 d:\tibo ece\tibo informatique\projet_allegrofinal\fichier.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<math.h>
+
+1588503319 source:d:\tibo ece\tibo informatique\projet_allegrofinal\ajouteracteur.c
+	"fichier.h"
+
+1588503319 source:d:\tibo ece\tibo informatique\projet_allegrofinal\creationacteur.c
+	"fichier.h"
+
+1588506066 source:d:\tibo ece\tibo informatique\projet_allegrofinal\main.c
+	"fichier.h"
+
+1588503320 source:d:\tibo ece\tibo informatique\projet_allegrofinal\menu.c
+	"fichier.h"
+
+1588503320 source:d:\tibo ece\tibo informatique\projet_allegrofinal\ouvertureimage.c
+	"fichier.h"
+
+1588503320 source:d:\tibo ece\tibo informatique\projet_allegrofinal\point&click.c
+	"fichier.h"
+
+1588503320 source:d:\tibo ece\tibo informatique\projet_allegrofinal\trajectoire.c
+	"fichier.h"
+
+1588496119 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\ing1\informatique\projet_allegrofinal\affichage.c
+	"fichier.h"
+
+1588496119 c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\ing1\informatique\projet_allegrofinal\fichier.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<math.h>
+
+1588496119 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\ing1\informatique\projet_allegrofinal\ajouteracteur.c
+	"fichier.h"
+
+1588496119 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\ing1\informatique\projet_allegrofinal\creationacteur.c
+	"fichier.h"
+
+1588496120 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\ing1\informatique\projet_allegrofinal\menu.c
+	"fichier.h"
+
+1588496120 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\ing1\informatique\projet_allegrofinal\ouvertureimage.c
+	"fichier.h"
+
+1588496120 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\ing1\informatique\projet_allegrofinal\point&click.c
+	"fichier.h"
+
+1588496120 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\ing1\informatique\projet_allegrofinal\trajectoire.c
+	"fichier.h"
+
+1588503344 source:c:\users\thiba\onedrive - groupe inseec (poce)\tibo ece\ing1\informatique\projet_allegrofinal\main.c
+	"fichier.h"
+
